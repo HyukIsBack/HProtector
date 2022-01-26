@@ -1,0 +1,14 @@
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\bin\Debug\xylostest1.exe.config
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\bin\Debug\xylostest1.exe
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\bin\Debug\xylostest1.pdb
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\obj\Debug\HCrypter.csproj.SuggestedBindingRedirects.cache
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\obj\Debug\xylostest1.mainForm.resources
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\obj\Debug\xylostest1.Properties.Resources.resources
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\obj\Debug\HCrypter.csproj.GenerateResource.cache
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\obj\Debug\HCrypter.csproj.CoreCompileInputs.cache
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\obj\Debug\xylostest1.exe
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\obj\Debug\xylostest1.pdb
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\obj\Debug\HCrypter.csproj.AssemblyReference.cache
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SeungHyuk\Desktop\Visual Studio\xylostest1\xylostest1\obj\Debug\HCrypter.csproj.CopyComplete
